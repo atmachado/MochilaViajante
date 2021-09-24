@@ -1,0 +1,14 @@
+Para isto, cada aluno na mesa de trabalho deverá investigar quais são seu endereço MAC e IP.
+endereço IP privado
+Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.177 classe c
+
+Endereco MAC mascara sub rede
+Endereço Físico . . . . . . . . . . . . . . : 78-2B-CB-EB-35-85
+
+ip publico
+187.36.165.162 - classe b
+
+Find MAC Address Vendors. Now.
+Enter a MAC Address
+78-2B-CB-EB-35-85
+Dell Inc.
